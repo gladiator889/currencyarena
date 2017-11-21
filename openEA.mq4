@@ -22,3 +22,4 @@ extern int MagicNo = 968881546;   
 //함수정의공간
 
 
+fgfsdf
